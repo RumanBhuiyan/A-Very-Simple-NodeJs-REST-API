@@ -19,4 +19,4 @@
 #### 6. As REST API is all about making GET,POST,PUT,PATCH,UPDATE,DELETE requests so to perform these operations without having a front-end application you can use [Postman](https://www.postman.com/)
 #### using Postman you can make these requests and view the responses in the GUI of Postman Tool
 
-
+#### 7. finally Save all and  in terminal type `node server.js` & hit enter.Now Your app will run 
